@@ -1,0 +1,4 @@
+export const types = {
+	MASSAGE_TRUE: 'MESSAGE_TRUE',
+	MASSAGE_FALSE: 'MESSAGE_FALSE',
+}
